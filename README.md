@@ -42,6 +42,7 @@ The project includes:
 - GitHub
 - Risk management methodology
 - Executive reporting documentation
+- CISO assistant
 
 ## Author
 
